@@ -1,4 +1,4 @@
-# While working with Hugging Face transformer models, it is important to consider system hardware limitations—especially RAM and GPU capacity—before selecting a model.
+While working with Hugging Face transformer models, it is important to consider system hardware limitations—especially RAM and GPU capacity—before selecting a model.
 
 Systems with more than 8 GB RAM/GPU can comfortably handle models in the 8–10 GB range.
 
